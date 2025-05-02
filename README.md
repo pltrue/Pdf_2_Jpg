@@ -1,4 +1,4 @@
-# [Pdf_2_Jpg](https://github.com/pltrue/Pdf_2_Jpg/releases/download/pdf2jpg/Pdf2Jpg.zip)
+# [Pdf_2_Jpg]
 
 แปลงไฟล์ PDF ให้เป็นรูปภาพ JPG ได้อย่างง่ายดาย
 
